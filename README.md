@@ -1040,9 +1040,6 @@ Model-derived explanations will identify physiologically meaningful temporal and
 
 # Potential Paper Title
 
-**PersonaWear: Personalized and Uncertainty-Aware Multimodal Learning for Robust Wearable Health Monitoring**
-
-Alternative title:
 
 **PersonaWear: Robust Personalized Health Prediction from Incomplete Multimodal Wearable Signals**
 
