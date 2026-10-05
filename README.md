@@ -1043,7 +1043,6 @@ Model-derived explanations will identify physiologically meaningful temporal and
 
 **PersonaWear: Robust Personalized Health Prediction from Incomplete Multimodal Wearable Signals**
 
-The second title may be stronger academically because the research problem is immediately clear.
 
 ---
 
